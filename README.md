@@ -1,5 +1,3 @@
-<div align="center">
-
 # 🛡️☁️ Cloudflare Ops Survival Guide
 
 **Cloudflare 运维踩坑宝典 — 深夜排错凝结而成的实战血泪史**
@@ -12,8 +10,6 @@
 *这不是一份 API 翻译文档，而是一份由无数次 `525`、`522`、`9106` 报错和深夜排错凝结而成的实战 SOP。*
 
 **[快速开始](#目录-contents)** · **[贡献指南](#贡献-contributing)** · **[Issues](https://github.com/Mer3y1338/cloudflare-ops-survival-guide/issues)**
-
-</div>
 
 ---
 
@@ -56,7 +52,7 @@
 
 ## 贡献 (Contributing)
 
-欢迎提交 PR 补充你遇到的玄学报错和填坑记录！我们不需要基础的 API 教程，我们需要的是** “为什么它坏了，以及如何真正修好它” **。
+欢迎提交 PR 补充你遇到的玄学报错和填坑记录！我们不需要基础的 API 教程，我们需要的是**“为什么它坏了，以及如何真正修好它”**。
 
 ## 许可证 (License)
 
